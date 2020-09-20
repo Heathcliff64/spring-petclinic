@@ -123,8 +123,8 @@
          <url>http://3.236.122.242:8080/manager/text</url>
          <warFile>target\petclinic.war</warFile>
          <path>/petclinic</path>
-         <username>admin</username>
-        <password>cloud@123</password>
+         <username>vbates</username>
+        <password>Swordart@112026</password>
          </configuration>
      </plugin>  
       <plugin>
